@@ -2,7 +2,7 @@
   "campsites": [
     {
       "id": 0,
-      "name": "React Lake Campground",
+      "name": "React Lake Strip Club",
       "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/react-lake.jpg?raw=true",
       "elevation": 1233,
       "featured": false,
