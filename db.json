@@ -11,7 +11,7 @@
     {
       "id": 1,
       "name": "Chrome River Campground",
-      "image": "images/chrome-river.jpg",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/chrome-river.jpg?raw=true",
       "elevation": 877,
       "featured": false,
       "description": "Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River."
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "name": "Breadcrumb Trail Campground",
-      "image": "images/breadcrumb-trail.jpg",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/breadcrumb-trail.jpg?raw=true",
       "elevation": 2901,
       "featured": false,
       "description": "Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground."
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "name": "Redux Woods Campground",
-      "image": "images/redux-woods.jpg",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/redux-woods.jpg?raw=true",
       "elevation": 42,
       "featured": true,
       "description": "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
@@ -223,28 +223,28 @@
     {
       "id": 0,
       "name": "Bootstrap Outfitters",
-      "image": "images/bootstrap-logo.png",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/bootstrap-logo.png?raw=true",
       "featured": false,
       "description": "Bootstrap Outfitters supplies you with the gear you need at prices you can't beat."
     },
     {
       "id": 1,
       "name": "Git Out Expeditions",
-      "image": "images/git-logo.png",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/git-logo.png?raw=true",
       "featured": false,
       "description": "Join Git Out Expeditions to explore new horizons with a group of other adventurers!"
     },
     {
       "id": 2,
       "name": "Mongo Fly Shop",
-      "image": "images/mongo-logo.png",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/mongo-logo.png?raw=true",
       "featured": false,
       "description": "Need a new fishing pole, a tacklebox, or flies of all kinds? Stop by Mongo Fly Shop."
     },
     {
       "id": 3,
       "name": "Node Outdoor Apparel",
-      "image": "images/node-logo.png",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/node-logo.png?raw=true",
       "featured": true,
       "description": "From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered."
     }
@@ -253,7 +253,7 @@
     {
       "id": 0,
       "name": "Mountain Adventure",
-      "image": "images/breadcrumb-trail.jpg",
+      "image": "https://github.com/neuroCody/nucampJSONServer/blob/master/public/images/breadcrumb-trail.jpg?raw=true",
       "featured": true,
       "description": "Book a 5-day mountain trek with a seasoned outdoor guide! Fly fishing equipment and lessons provided."
     }
